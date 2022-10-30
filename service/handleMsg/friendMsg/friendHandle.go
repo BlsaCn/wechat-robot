@@ -1,0 +1,5 @@
+package friendMsg
+
+func Handle() {
+
+}

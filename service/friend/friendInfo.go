@@ -1,0 +1,5 @@
+package friend
+
+func SendTextMsg() {
+
+}
